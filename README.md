@@ -2,6 +2,8 @@
 
 ---
 
-Estoy ahora mismo estudiando programación todos los dias actualmente html css y javascript 
+Estoy ahora mismo estudiando programación todos los dias actualmente html css y javascript  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlvaroMendezGarcia)](https://git.io/streak-stats)
 
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
