@@ -1,6 +1,7 @@
-![descarga](https://github.com/user-attachments/assets/cea3a62a-c921-49a0-a21b-2f46e9db7e57)
 
----
+
+---![descarga (1)](https://github.com/user-attachments/assets/33f941a6-4945-4de3-92e9-45db76ac5741)
+
 
 Soy un estudiante de programación actualmente estudiando html y css y en proceso de aprender backend y cloud computing
 email:el1lock1.000@gmail.com
